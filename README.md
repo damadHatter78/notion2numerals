@@ -1,6 +1,11 @@
 Backend/Devops Project Info
 Language: Go 1.23 (stdlib net/http)
-
+    **** Go dependancy Infomation *****
+        -
+        -
+        -
+        -
+        
 Database: PostgreSQL (Docker Image)
 
 Deployment: AWS (Ec2 + Kubernetes/k3s)

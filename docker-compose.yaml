@@ -1,0 +1,11 @@
+services:
+  postgres:
+    image: postgres:16    # the image tag we want to use for the service
+    environment:
+    # here you will define environment variables to create the default user, password and database
+    ports:
+    # here you will list the port we want to map inside the container, and the port we want to expose it on in the host
+    volumes: 
+     # list any volumes (filesystem/drive mounts) that you want to map to a location inside the container  
+     # for instance, any .sql files you mount in a directory to the /docker-entrypoint-initdb.d location in the container
+     # will automatically be run on startup
