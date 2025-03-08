@@ -1,5 +1,11 @@
 THE AH-HA FILE - TO DOCUMENT IMPORTANT STUFF
-?! WHY DOES MY TERMINAL SAY THIS WHEN GOOGLE TOLD ME THAT go get {package name} is deprecated: no required module provides package github.com/joho/godotenv; to add it:
+?! WHY DOES MY TERMINAL SAY THIS WHEN GOOGLE TOLD ME THAT go get {package name} is deprecated: 
+
+Terminal Error message: no required module provides package github.com/joho/godotenv; to add it:
         go get github.com/joho/godotenv
+
+
 ChatGPT said:
-The reason you're seeing this message is that go get was changed starting from Go 1.17, and now in Go modules mode, go get is only used for upgrading dependencies rather than adding new ones.
+The reason you're seeing this message is that go get was changed starting from Go 1.17 (This project is currently using go 1.23.6), and now in Go modules mode, go get is only used for upgrading dependencies rather than adding new ones.
+
+
