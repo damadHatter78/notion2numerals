@@ -5,7 +5,8 @@ An endpoint refers to the URL or URI that serves as a gateway to a particular se
 2.2 Web API endpoints: In the realm of web developers & API's (application program interfaces) an API endpoint defines a specific URL where API request can be made, for example if you're building a weather app you might have an API endpoint that provides weather forecast in your area.
 2.3 Network endpoints: In networking, a network endpoint represents a device or a software component that's apart of the network.
 Network endpoints are assigned unique identifiers to facilitate communication & data exchange between them, endpoints also contribute to the security system by accessing specific resourses & functionalities.
-
+Session based authenication: Is a stateful authenication method used during sessions for the client and this keep track of the authenication of the user, the user puts their info into the browser which goes to server if the info is correct, usernames & emails are required then a session is created with a session ID.
+Ory Kratos is to identify user management & authentication system, Ory Kratos is a open source service that provides a quick efficient way to work & it's a safe database that clients & businesses can use alike.
 
 
     **** Go dependancy Infomation *****
