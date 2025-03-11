@@ -7,7 +7,10 @@ An endpoint refers to the URL or URI that serves as a gateway to a particular se
 Network endpoints are assigned unique identifiers to facilitate communication & data exchange between them, endpoints also contribute to the security system by accessing specific resourses & functionalities.
 Session based authenication: Is a stateful authenication method used during sessions for the client and this keep track of the authenication of the user, the user puts their info into the browser which goes to server if the info is correct, usernames & emails are required then a session is created with a session ID.
 Ory Kratos is to identify user management & authentication system, Ory Kratos is a open source service that provides a quick efficient way to work & it's a safe database that clients & businesses can use alike.
-
+Middleware: Is software that's use to bridge the gap between applications & operating rating system, middleware works as a hidden translation layer that connects tools, databases, & others technologies, single system then provides a unified service to it's user, middleware is also known as plumbing because it's a pipeline.
+Enterprise middleware: Is what the software companies use for their businesses.
+Platform middleware: Platform middleware supports application development.
+Middleware: Middleware works by using common messaging frameworks middleware makes possible to link several application & systems simultaneously.
 
     **** Go dependancy Infomation *****
         -
