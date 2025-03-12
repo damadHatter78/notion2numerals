@@ -11,7 +11,7 @@ Middleware: Is software that's use to bridge the gap between applications & oper
 Enterprise middleware: Is what the software companies use for their businesses.
 Platform middleware: Platform middleware supports application development.
 Middleware: Middleware works by using common messaging frameworks middleware makes possible to link several application & systems simultaneously.
-
+Hypertext transfer protocol aka HTTP is the secure version which the primary protocol used to send data between a web browser & a website, HTTPS is encrypted in order to increase security of the data transfer.
     **** Go dependancy Infomation *****
         -
         -
